@@ -1,0 +1,116 @@
+.His_contain1 .left{ width: 344px; height: 195px; position: absolute; margin-top: 140px;}
+.His_contain1 .left h1{ font-size: 38px; font-weight: 500; color: #121212; }
+.His_contain1 .left h4{ font-size: 20px; color: #7d7d7d; font-weight: 100; margin: 10px 0}
+.His_contain1 .left span{ font-weight: 100}
+
+.His_contain1 .right{ width: 896px; height: 513px; float: right; position: relative}
+.His_img1{ position: absolute; right: 0; z-index: 3}
+.His_img2{ position: absolute; left: 8px; top:58px; z-index: 2}
+.His_img3{ position: absolute; bottom:34px; right: 77px; z-index: 1}
+
+.His_contain1 .contain{width: 1300px; height: auto; overflow: hidden; padding: 124px 0; position: relative}
+.His_btn{ height: auto; margin-top: 47px; overflow: hidden}
+.His_btn a{ width: 160px; height: 50px; text-align: center; line-height: 50px; display: inline-block; font-size: 18px; border-radius:4px; cursor: pointer}
+#Login{ border: solid 1px #00a2ee; color: #00a2ee}
+#Login:hover{ background: #00a2ee; color: #fff}
+#Trial{ border: solid 1px #00a2ee; background: #00a2ee; float: right; color: #fff}
+
+
+
+/*第二屏*/
+.His_contain2{height: auto; background: #f8f8f8}
+.His_contain2 .contain{ width: 1250px; height: 838px; padding-top: 137px;}
+.His_contain2 .contain h2{ font-size: 38px; font-weight: 100; text-align: center; margin-bottom: 10px;}
+.His_contain2 .contain h4{ font-size: 20px; color: #737373; font-weight: 100; text-align: center;}
+
+.His_contain2_Best{ width: 100%; height: 614px; margin-top: 130px; position: relative }
+.His_contain2_Best img{ margin: 0 auto; display:block}
+.His_contain2_Best li{position: absolute; width: 310px; height: 113px; }
+.His_contain2_Best li:nth-child(1){top: 85px;}
+.His_contain2_Best li:nth-child(2){top: 320px}
+.His_contain2_Best li:nth-child(3){top: 85px; right: 0px;}
+.His_contain2_Best li:nth-child(4){top: 320px; right: 0px;}
+.His_con2_img{width: 502px; height: 710px; background: url("../HISimage/HIS_07.png") center no-repeat; margin: 0 auto;}
+.Tag_cloud{ width: 423px; height: 341px; position: absolute;
+    top:295px;margin-left: 38px;}
+
+.fl{ float: left;}
+.fr{ float: right}
+.fl_p{ margin-left: 31px}
+
+
+
+/*标签云*/
+.b_10_3 {
+    overflow: hidden; text-align:center;
+}
+.b_10_3 span {
+    float: left; font-size:16px; line-height:2em;
+}
+.b_10_3 span.bold {
+    font-weight:bold;
+}
+.b_10_3 span:nth-child(1) {
+    width: 35%;
+    text-align: center;
+}
+.b_10_3 span:nth-child(2) {
+    width: 30%;
+    text-align: left;
+}
+.b_10_3 span:nth-child(3) {
+    width: 35%;
+    text-align: left;
+}
+.b_10_3 span:nth-child(4) {
+    width: 35%;
+    text-align: right;
+}
+.b_10_3 span:nth-child(5) {
+    width: 25%;
+    text-align: right;
+}
+.b_10_3 span:nth-child(6) {
+    width: 25%;
+    text-align: right;
+}
+.b_10_3 span:nth-child(7) {
+    width: 50%;
+    text-align: center;
+}
+.b_10_3 span:nth-child(8) {
+    width: 30%;
+    text-align: center;
+}
+.b_10_3 span:nth-child(9) {
+    width: 50%;
+    text-align: right;
+}
+.b_10_3 span:nth-child(10) {
+    width: 40%;
+    text-align: right;
+}
+
+
+
+.His_contain2_Best li p{ display: inline-block; font-size:16px; color: #535353; margin-top: 20px; line-height: 34px;}
+.His_contain2_Best li img{ display: inline-block}
+
+/*第三屏*/
+.His_contain3{height: auto; background: #0070c7}
+.His_contain3 .contain{ width: 1100px; height: 999px; padding-top: 210px;}
+
+.His_contain3 .contain h2{ font-size: 38px; font-weight: 100; color: #fff; text-align: center; margin-bottom: 10px;}
+.His_contain3 .contain h4{ font-size: 18px; color: #80b8e3;  font-weight: 100; text-align: center; margin-top: 15px;}
+
+.His_con3{height: 649px; margin-top: 125px; padding-top: 70px; position: relative}
+.His_con3 li{position: absolute; color: #99c6e9; font-size: 18px; font-weight: 100}
+
+.His_con3 li:nth-child(1){left: 487px;
+    top:12px;}
+.His_con3 li:nth-child(2){top: 260px; left: 70px;}
+.His_con3 li:nth-child(3){top: 573px; left: 150px;}
+.His_con3 li:nth-child(4){right: 48px; top:260px;}
+.His_con3 li:nth-child(5){top: 573px; right:125px; }
+
+.con1{ width: 592px; height: 584px; margin: 0 auto; background:url("../HISimage/HIS_23.png") center no-repeat;}

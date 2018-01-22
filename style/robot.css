@@ -1,0 +1,59 @@
+.robot_con1{ background: #fff; padding: 120px 0}
+.robotimg{ margin-right: 70px}
+.rot_l{ width: 316px; height: auto; margin-top: 80px; margin-left: 120px;}
+.rot_l h1{ font-size: 38px; font-weight: 100}
+.rot_l h4{ font-size: 22px; font-weight: 100; margin: 15px 0}
+.tot_span{height: auto; overflow: hidden}
+.tot_span img{ margin-top: 5px; margin-right: 5px;}
+.tot_span span{ display: inline-block; border: solid 1px #b8b8b8; color: #b8b8b8; cursor: pointer;  border-radius:25px; font-weight: 100; width: 98px; text-align: center; font-size: 24px;}
+.tot_span span:hover{ background: #b8b8b8; color: #fff}
+.rot_l ul{ height: auto; overflow: hidden; margin-top: 80px;}
+.rot_l li{width: 74px; height: auto; overflow:hidden; float: left}
+.rot_l li p{ font-size: 18px; color: #0099dd; margin-top: 30px;}
+.rot_l li:nth-child(2){margin: 0 44px;}
+
+
+
+/*二屏*/
+.robot_con2{ padding: 115px 0; background:url("../robot/home_robot_20.png") center no-repeat}
+.robot_con2 h1{font-size: 38px; font-weight: 100; text-align: center}
+.robot_con2 p{ font-size: 20px; color: #7b7b7c; text-align: center; margin-top: 30px;}
+.robot_con2 .robot_img{ height: 533px; position: relative; margin-top: 60px;}
+
+
+/*三屏*/
+.robot_con3{ background: #181c24}
+.robot_con3 h1{font-size: 38px; font-weight: 100; text-align: center; color: #fff; margin-top: 80px;}
+.robot_con3 p{font-size: 16px; color: #7b7b7c; text-align: center; margin-top: 30px;}
+.Wulian_con{ height: auto; width: 100%; min-width: 1200px; }
+.Wulian_con ul{ height: auto; margin-top: 80px}
+.Wulian_con ul li{ width: 25%; height: 248px; float: left; opacity: 0.7;}
+.Wulian_con ul li:hover{ opacity: 1}
+.Wulian_con ul li img{ display: none}
+.Wulian_con ul li a{ display: none; height: 248px; background: rgba(42,178,216,0.8) url("../robot/a_bg_03.png") no-repeat; background-position: 0; transition: all 0.6s}
+.Wulian_con ul li:hover a{ display: block; animation: myfirst 0.5s forwards; -moz-animation: myfirst 0.5s forwards;  -webkit-animation: myfirst 0.5s forwards;	 -o-animation: myfirst 0.5s forwards;}
+
+
+@keyframes myfirst
+{
+    from { background-position: 90px; opacity: 0 }
+    to { background-position:center; opacity: 1 }
+}
+
+@-moz-keyframes myfirst
+{
+    from { background-position: 90px; opacity: 0 }
+    to { background-position:center; opacity: 1 }
+}
+
+@-webkit-keyframes myfirst
+{
+    from { background-position: 90px; opacity: 0 }
+    to { background-position:center; opacity: 1 }
+}
+
+@-o-keyframes myfirst
+{
+    from { background-position: 90px; opacity: 0 }
+    to { background-position:center; opacity: 1 }
+}

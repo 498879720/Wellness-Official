@@ -1,0 +1,23 @@
+
+
+
+/*下分类*/
+.ClassiFication{ width: 100%; min-width: 1200px; height: auto; overflow: hidden; }
+.ClassiFication .Subclass{ width: 33.33%; float: left; height: 295px; transition: all 0.6s;}
+.describe{ display: inline-block; float: right; margin-top: 16%; margin-right: 15%}
+
+.SubC1{ background:#fff url("../image/index_15.png") 10% center no-repeat; background-size:43%; }
+.SubC2{ background:#fafafa url("../image/Prevention.jpg") center no-repeat; }
+.SubC3{ background:#fff url("../image/index_12.png") 10% center no-repeat; background-size:61%;}
+
+
+.SubC1:hover{ background-position: 15% center}
+.SubC3:hover{background-position: 15% center}
+.SubC2 h2{ line-height: 310px; font-size: 4em; text-align: center}
+.describe a{display: block; height: 100%}
+.SubC1 h3, .SubC3 h3{font-size: 38px; color: #000; text-align: center; font-weight: 100;}
+.SubC1 p, .SubC3 p{color: #a5a5a5; font-size: 22px; font-weight: 100; text-align: center; line-height: 2em}
+.SubC1 img{ position: relative; top: 20%; left: 5%;}
+
+
+

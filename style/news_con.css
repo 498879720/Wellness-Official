@@ -1,0 +1,56 @@
+.news_con{ background: rgb(248, 248, 248); padding: 70px 0}
+.new_con_B{ height: auto; overflow: hidden}
+.news_con_left{ width: 885px; height: auto;  float: left }
+.news_con_left h2{ font-size: 30px; color: #333333; font-weight: 100; font-family: 新宋体; text-align: center; padding-bottom: 20px; border-bottom: dashed 1px #bbbbbb}
+.news_con_right{ width: 260px; height:auto; float: right }
+.News_detail{ font-weight: 100; font-size: 14px; color: #d6d6d6; line-height: 38px;}
+.News_detail .readicon{ float: none; font-size: 14px}
+.News_detail .readicon i{ margin-top: 9px}
+.share{ display: inline-block; float: right; }
+.share a{color: #5874a2}
+.shareI{ width: 20px; height: 20px; background: url("../image/share_03.png") center no-repeat; display: inline-block; float: left; margin-top: 9px; margin-right: 5px;}
+
+.news_text{ padding: 10px 0;}
+.news_text p{ font-size: 16px; line-height: 36px; text-indent: 30px; font-weight: 100; color: #5b5b5b}
+
+.news_con_right h2{ height: 77px; text-align: center; line-height: 77px; color: #fff; font-size: 24px; font-weight: 100; background: url("../image/new_conimg_03.png") center no-repeat}
+.Hotspot li{ padding: 18px 0; border-bottom: solid 1px #e3e3e3; height: auto; overflow: hidden}
+.Hotspot2{  margin-top: 5px}
+.Hotspot2 li{ padding: 10px 0; font-size: 14px; color: #888888; font-weight: 100}
+.Hotspot2 li span{ width: 27px; height: 27px; color: #fff; display: inline-block; background: #a1a1a1; text-align: center; line-height: 27px; margin-right: 10px;}
+.active{ background: #2b5b8f !important}
+.new_right2{ width: 143px; height: auto; float: right}
+.Hotspot .new_right2 h4{ font-size: 16px; white-space: normal; overflow: hidden; text-overflow: ellipsis; color: #2a5a8f; font-weight: 100}
+.Hotspot .new_right2 p{ font-size: 14px; color: #a6a4a4; font-weight: 100}
+
+.div1{ width: 101px;
+    height:64px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+.div1 .hidden{visibility: hidden;
+    position: static;}
+.div1 img{    position: absolute;
+    top: -50%;
+    left: -50%;
+    display: block;
+    width: 101px;}
+.div1 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.morenews{ display: block; padding: 15px 0;
+    border-top:solid 1px #e3e3e3; margin-top: 5px; text-align: center; font-size: 16px; color: #888888}
+
+.nextnews{ height: auto; overflow: hidden}
+.nextnews a{ display: inline-block; width: 50%; float: left; text-align: right; font-size: 14px; color: #717171}
+.nextnews a:first-child{ text-align: left}
+
+.Related{ margin-top: 30px; font-weight: 100}
+.Related h4{ height: 30px; line-height: 30px; font-size: 16px; font-weight: 100; color: #717171; background: url("../image/new_conimg_13.png") 0 center no-repeat; text-indent: 20px;}
+.Related li{padding: 10px 0;font-size: 16px; width: 50%; float: left}

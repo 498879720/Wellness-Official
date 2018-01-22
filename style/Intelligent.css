@@ -1,0 +1,20 @@
+.Intelligent_con1{ background: #80b9e1; padding: 90px 0}
+.Inte_con1{ height: 791px; background: url("../IntelligentImg/Intelligent_img_03.png") 0 center no-repeat; position: relative}
+.Intell_text{ color: #fff; width: 269px; height: 214px; position: absolute; bottom: 0; right: 120px;}
+.Intell_text h1{ font-size: 44px; font-weight: 500}
+.active_href{ width: 263px; height: 60px; line-height: 58px; background: #f7a421; margin: 0 auto; margin-top: 33px; color: #fff; text-align: center; display: block; font-size: 30px}
+
+
+.Intelligent_con2{background: #e8dcbf; padding: 90px 0;}
+.Inte_con2{ width: 884px;}
+.Inte_con2 img{display: block; margin: 0 auto}
+.Inte_con2 h1{ font-size: 46px; font-weight: 500; color: #2a271e; margin-top: 45px; margin-bottom: 10px;}
+.Inte_con2 h5{ font-size: 30px; color: #545351; font-weight: 500;}
+
+
+.Intelligent_con3{ background: #80b9e1; padding: 90px 0;}
+.Inte_con3{ width: 985px;}
+.Intelligent_con3 h1, .Intelligent_con3 h5{ color: #fff; text-align: center}
+.Inte_con3 h1{ font-size: 46px; font-weight: 500; color: #fff; margin-top: 45px; margin-bottom: 10px;}
+.Inte_con3 h5{ font-size: 30px; color: #fff; font-weight: 500;}
+

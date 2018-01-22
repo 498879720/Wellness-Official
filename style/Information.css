@@ -1,0 +1,144 @@
+﻿.Information{ background: #f5f5f5; height: auto; overflow: hidden}
+.InformationMore{ margin-top: -30px;}
+
+
+/*健康容器*/
+.HealthyCon{ width:1114px; height: auto;
+    overflow: hidden; margin: 60px auto; }
+.HealthyCon_left{ width: 328px; height: 737px; float: left; margin-right: 10px;}
+.left_top_img{ width: 326px;
+    height:529px;
+    margin-bottom: 10px;
+    border: solid 1px #efefef;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+.left_top_img:hover img{transform: scale(1.2);}
+
+.left_top_img .hidden{visibility: hidden;
+    position: static;}
+.left_top_img img{    position: absolute;
+    top: -50%;
+    left: -50%;
+    display: block;
+    transition: all 0.6s;
+    width: 326px;
+      height:529px;
+}
+.left_top_img p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding: 0;
+}
+.InfCon{ display: block; padding: 10px; background: rgba(0,0,0,0.5); position: relative;
+    top:490px; font-size: 14px; color: #fff}
+
+.HealthyCon_right{ width: 760px; height: 737px; float: left}
+
+
+
+
+
+
+/*头条*/
+.InformationCon{ width: 1100px; margin: 0 auto; height: auto}
+.The_headlines{ width: 100%; height: 209px; background: #fff; position: relative}
+.The_headlinesImg{ position: absolute; right: -14px;
+    top:10px;}
+.The_headlines h2{
+    font-size: 28px;
+    font-weight: 200;
+    padding-top: 35px;
+    padding-left: 25px;
+}
+
+.The_headlines p{ font-size: 20px; padding: 0 28px; font-weight: 100; margin-top: 18px; }
+
+.The_headlines p a{color: #9d9d9d; line-height: 32px;}
+.The_headlines p a:hover{ color: #4f8fd3}
+.HealthyCon_list{ width: 760px; height: 514px; margin-top: 12px;}
+
+
+
+.HealthyCon_list_con{ width: 375px;
+    height:251px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+.HealthyCon_list_con:nth-child(2n){ float: right}
+
+.HealthyCon_list_con:hover img{transform: scale(1.1);}
+
+.HealthyCon_list_con .hidden{visibility: hidden;
+    position: static;}
+.HealthyCon_list_con img{    position: absolute;
+    top: -50%;
+    left: -50%;
+    display: block;
+    transition: all 0.6s;
+    width: 375px;}
+.HealthyCon_list_con p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.HealthyCon_list_a_con{display: block; padding: 10px; background: rgba(0,0,0,0.5); position: relative;
+    top:212px; font-size: 14px; color: #fff}
+
+
+
+/*企业动态*/
+.enterprise{ width: 1100px; height: auto; overflow: hidden; margin: 60px auto; }
+.enterprise .enter_left{ width: 635px; height: 480px; background: #f8f8f8; float: left}
+.enterprise .enter_right{ width: 415px; height: 450px; background: #f8f8f8; float: right; padding: 15px}
+
+.enter_left_con{ width: 635px;
+    height:344px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+}
+
+.enter_left_con:hover img{transform: scale(1.1);}
+
+.enter_left_con .hidden{visibility: hidden;
+    position: static;}
+.enter_left_con img{    position: absolute;
+    top: -50%;
+    left: -50%;
+    display: block;
+    transition: all 0.6s;
+    width: 678px;}
+.enter_left_con p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+.enterprise .enter_left h1{ font-size: 22px; font-weight: 100; padding: 0 15px; margin-top: 20px}
+.enterprise .enter_left p{ font-size: 16px; padding: 0 15px; line-height: 28px; margin-top: 10px}
+.enterprise .enter_left p a{ color: #919191}
+.enterprise .enter_left p a:hover{ color: #3c83cf}
+
+.enter_right_top{ height: auto; overflow: hidden; padding-bottom: 15px; border-bottom: solid 1px #e6e6e6}
+.enter_right_top img{ width: 167px; height: 125px; float: left}
+.enter_right_top h4{ font-size: 18px; font-weight: 100; display: inline-block; margin-top: 26px; padding-left: 15px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
+.enter_right_top p{ font-size: 14px; line-height: 24px; font-weight: 100;  display: inline-block; width: 228px;  padding-left: 15px;}
+.enter_right_top p a{ color: #a3a3a3; }
+
+.enter_right_ul{ height: auto; overflow: hidden}
+.enter_right_ul li{height: auto; overflow: hidden; margin-top: 10px;}
+.enter_right_ul li span{ display: inline-block; text-align: center; cursor: pointer; font-size: 14px;  background: #fff; color: #e6e6e6; line-height: 40px; width: 40px; height: 40px; margin-right: 10px; border: solid 1px #fff; transition: all 0.6s }
+.enter_right_ul li a{ font-size: 16px; font-weight: 100; color: #b6b5b5; width:350px; display: inline-block; overflow: hidden; text-overflow: ellipsis;white-space:nowrap}
+.enter_right_ul li:hover span{ border: solid 1px #2d6bd3; color: #2d6bd3; font-size: 22px;}
+.enter_right_ul li:hover a{ color: #2d6bd3}

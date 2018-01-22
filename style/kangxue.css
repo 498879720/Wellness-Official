@@ -1,0 +1,23 @@
+/*屏1*/
+.kangxue_con1{ height: 780px; background: url("../kangxue/kangxueOnline_01.png") center}
+.kangxue_con1 h1{ font-size: 65px; text-align: center; font-weight: 100; padding-top: 50px}
+.kangxue_con1 span{ font-size: 40px; text-align: center; display: block; margin: 0 auto}
+.kangxue_con1 p{ text-align: center; font-size: 28px; margin-top: 50px; color: #53555a}
+.kangxue_con1 img{ display: block; margin: 0 auto}
+
+#See{ display: block; width: 241px; height: 47px; background: #3799e5; border: solid 1px #3799e5; margin: 50px auto; color: #fff; text-align: center; line-height: 45px; font-size: 24px;}
+#See:hover{ background: #fff; color: #3799e5}
+
+/*屏2*/
+.kangxue_con2{ height: 750px; padding-top: 310px;}
+.kangxue_con2_img{  width: 748px; height: auto; overflow: hidden;  margin: 0 auto }
+.kangxue_con2_img img:nth-child(1){float: left}
+.kangxue_con2_img img:nth-child(2){float: right; margin-top: 115px;}
+.kangxue_con2_text{ width: 512px; height: auto; margin: 0 auto; margin-top: 140px;}
+.kangxue_con2_text h1{ font-size: 60px; font-weight: 500; color: #767676}
+.kangxue_con2_text p{ font-size: 30px; color: #767676; margin-top: 5px;}
+.kangxue_con2_text h1 span:nth-child(1){ color: #3799e5}
+.kangxue_con2_text h1 span:nth-child(2){ color: #12bbae}
+
+/*屏3*/
+.con3{ height: 968px; background: url("../kangxue/kangxueBg2_02.png") center}

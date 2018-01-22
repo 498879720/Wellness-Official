@@ -1,0 +1,52 @@
+.newcon{ width: 100%; height: auto; overflow: hidden; background: #f9f9f9;}
+
+
+.Recommend{ height: 196px; background: #fff; border: solid 1px #eeeeee; box-shadow:2px 3px 13px #dcdcdc}
+.Recommend img{ margin-left: -15px; margin-top: 15px; float: left}
+.RecommendCon{ width: 83%; height: 154px; float: right; margin-top: 26px; margin-right: 26px;}
+.RecommendCon h2{ font-size: 28px; font-weight: 200; padding-top: 5px;}
+.RecommendCon p{ text-align: left; font-size: 20px; font-family: "Microsoft YaHei"; font-weight: 100; line-height: 38px; margin-top: 10px}
+.RecommendCon p a{color: #8b8b8b}
+.RecommendCon p a:hover{ color: #1076bb}
+.time{ float: right; font-size: 16px; color: #8b8b8b; font-weight: 300}
+
+
+
+.newcon hr{ margin: 40px auto;border: none; border-bottom: solid 1px #dcdcdc}
+
+.newsul{ height: auto; overflow: hidden}
+.newsul li{ padding: 30px; background: #fff; height: auto; overflow: hidden; margin-top: 40px; border: solid 1px #fff; transition: all 0.6s}
+.newsul li:first-child{margin: 0}
+.newsul li:hover{ border: solid 1px #3c83cf; }
+
+.div1{ width: 182px;
+    height:159px;
+    border: solid 1px #efefef;
+    overflow: hidden;
+    position: relative;
+    float: left;
+}
+.div1 .hidden{visibility: hidden;
+    position: static;}
+.div1 img{    position: absolute;
+    top: -50%;
+    left: -50%;
+    display: block;
+    width: 182px;}
+.div1 p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.Readcon2{ font-weight: 100; height: auto; overflow: hidden;}
+.Readcon2 span{ float: left; margin-top: 0}
+
+.newsBt{ width: 920px; height: auto; overflow: hidden; float: right}
+.newsBt h4{ font-size: 24px;  font-weight: 200; line-height: 30px; margin-top: 25px;}
+.newsBt h4 a{ display: inline-block}
+
+.newsBt p{ font-size: 20px; margin: 20px 0; text-align: left; font-family: "Microsoft YaHei"; font-weight: 100}

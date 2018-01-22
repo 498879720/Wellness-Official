@@ -1,0 +1,29 @@
+.science{ width: 1080px; border: solid 4px #4cccc1; margin:  0 auto; margin-top: 206px; height: 486px; position: relative}
+.science_r{ position: absolute; right: 60px; top:-195px;}
+
+.science_l_img{position: absolute; left: -31px; top: -34px;}
+.text{ margin-top:170px; margin-left: 60px;}
+.text h1{ font-size: 34px; color: #535353; font-weight: 100; margin-bottom: 40px;}
+.text h4{ font-size: 24px; color: #535353; font-weight: 100; margin-bottom: 10px;}
+
+
+
+/*二屏*/
+.science_con2{ padding: 40px 0; background: url("../Science/Science_bg_02.png") center no-repeat; margin-top: 225px; background-size:100%}
+.video_img{ width: 100%}
+.science_con2 h1{ font-size: 46px; font-weight: 100; text-align: center; color: #0374a1; margin: 50px 0}
+.science_con2 h1 span{ font-size: 75px; color: #e15814}
+.science_con2 p{ font-size: 30px; text-align: center; line-height: 46px; color: #4e4f4f}
+
+
+
+/*三屏*/
+.science_con3{ width: 1080px; margin: 0 auto; padding: 40px 0; height: auto;}
+.science_con3 .fr{ width: 512px; text-align: right; margin-top: 200px;}
+.science_con3 .fr img{}
+.science_con3 h2{ font-size: 40px; font-weight: 100; margin: 40px 0}
+.science_con3 h2 span{ font-size: 58px;}
+.science_con3 ul{height: auto; margin-bottom: 40px;}
+.science_con3 ul li{display: inline-block}
+.science_con3 ul li:nth-child(2){ margin: 0 33px}
+.science_con3 p{ font-size: 28px; color: #3a3a3a; margin-top: 15px; font-weight: 100}
